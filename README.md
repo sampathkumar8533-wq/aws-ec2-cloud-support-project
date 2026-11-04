@@ -71,3 +71,20 @@ Future Improvements
 - Configure and verify SNS email notifications.
 - Collect Nginx logs using CloudWatch Logs.
 - Automate infrastructure using Terraform.
+
+- ## Project Screenshots
+
+### EC2 Instance
+![EC2](ec2-instance.png)
+
+### Security Group
+![Security Group](security-group.png)
+
+### Nginx Web Server
+![Nginx](nginx-active.png)
+
+### Deployed Portfolio
+![Website](website.png)
+
+### CloudWatch Alarm
+![CloudWatch](cloudwatch-alarm.png)
